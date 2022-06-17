@@ -1,2 +1,6 @@
+SSH - Conexão segura e encriptada entre duas máquinas.
+Possui duas Chaves: a públca e a privada. 
+
+
 Links para geração de chave SSH
 https://docs.github.com/pt/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
